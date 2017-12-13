@@ -4,7 +4,7 @@
 
 分析主子表目录结构，根据结构来分析其写法对照币种表，有哪些不同。我们看如下图，在main文件夹📂内有一个文件夹component，前文我们说过，公用组件存放在components文件夹内，而单单独页面使用的组件存放在component文件夹内，如图内所示，component内包括，addModul、edit、editHandle、等组件，这些组件都为主子表页面单独使用，使用组件，易于管理，方便复用。
 
-![结构](/Users/brucefang/Downloads/react教程img/主子表图片/结构.jpeg)
+![结构](react教程img/主子表图片/结构.jpeg)
 
 
 
